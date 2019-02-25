@@ -1,0 +1,20 @@
+body{
+	background-image: url(https://images.wallpaperscraft.com/image/sunset_sea_rings_planet_90890_1920x1080.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: yellow;
+}
+.text-center{
+
+	color:orange;
+}
+
+
+.last-seconds{
+  color: orange;
+}
+.option{
+  margin: 20px;
+}
